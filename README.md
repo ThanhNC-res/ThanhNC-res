@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ngo Cong Thanh, an IT student
-- 👀 I’m interested in being a working with lines of code
+- 👀 I’m interested in working with lines of code
 - 🌱 I’m currently learning in Swinburne University of technology
 - 📫 How to reach me : ncThanhfw@gmail.com
 
